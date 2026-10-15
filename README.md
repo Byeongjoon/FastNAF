@@ -1,6 +1,6 @@
-# FastNAF
+# FastNAF: Accelerated Neural Attenuation Field Reconstruction for Sparse-View CBCT under Longitudinal Truncation
 
-The official implementation of **"FastNAF: Accelerated Neural Attenuation Field Reconstruction for Sparse-View CBCT under Longitudinal Truncation"**
+The official implementation of FastNAF.
 
 This repository accompanies our research on addressing the longitudinal truncation problem and accelerating neural attenuation field (NAF)-based reconstruction for sparse-view cone-beam computed tomography (CBCT).
 
