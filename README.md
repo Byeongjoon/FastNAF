@@ -11,13 +11,3 @@ This repository accompanies our research on addressing the longitudinal truncati
 This repository currently serves as a placeholder for the accompanying research paper. 
 
 The source code and implementation details will be made publicly available upon acceptance of the paper.
-
-## Publication
-
-**"FastNAF: Accelerated Neural Attenuation Field Reconstruction for Sparse-View CBCT under Longitudinal Truncation"**
-
-Byeongjoon Kim and Jongduk Baek
-
-*Under review.*
-
-The paper and citation information will be updated following publication.
